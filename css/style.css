@@ -1,0 +1,6 @@
+.bg-success{
+    background-color: #264653 !important;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
